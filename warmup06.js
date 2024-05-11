@@ -25,7 +25,7 @@ let countring = (number) => {
  * @return {any}
  */
 
- function midElement(array) {
+const midElement = (array) =>{
    
 
 }
@@ -39,7 +39,7 @@ let countring = (number) => {
  */
 
   
-function sameLength(array) {
+const sameLength=(array) =>{
   
 }
 
