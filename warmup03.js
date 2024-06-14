@@ -7,7 +7,7 @@
  * @return {string}
  */
 
-let reverseStr = function (str) => {
+let reverseStr = function (str){
 }
 
 
@@ -20,7 +20,7 @@ let reverseStr = function (str) => {
  * @param {number} n
  * @return {string}
  */
-const laugh=(num)=>{
+const laugh= function (num){
 
 }
 
