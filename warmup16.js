@@ -27,5 +27,5 @@
  * Example 4:
  * Input: sentence = "A journey of a thousand miles begins with a single step"
  * Output: "thousand"
- * Explanation: "thousand" is the longest word in the sentence.
+ * explanation: "thousand" is the longest word in the sentence.
  */
