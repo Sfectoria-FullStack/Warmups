@@ -28,5 +28,5 @@
  * Example 4:
  * Input: arr = [1, 2, 3, 4, 5], target = 10
  * Output: []
- * Explanation: There are no pairs that add up to the target sum of 10.
+ * explanation: There are no pairs that add up to the target sum of 10.
  */
