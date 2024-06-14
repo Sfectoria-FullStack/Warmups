@@ -6,9 +6,7 @@
  * @return {Array}
  */
 
-let reverseArray = (array ) => {
-
-}
+let reverseArray = (array ) =>
 
 /**
  * 2 - Write a function named objKey that take an object as a parameter and returns an array containing the keys of the object
@@ -19,9 +17,7 @@ let reverseArray = (array ) => {
  * @return {Array}
  */
 
-let objKey=(object)=>{
-   
-}
+let objKey=(object)=>
 
 /**
  * 3 - Write a function named objLength to get the length of a JavaScript object
@@ -31,9 +27,7 @@ let objKey=(object)=>{
  * @param {Object} obj
  * @return number
  */
-let objLength=(obj) =>{
-
-}
+let objLength=(obj) =>
 
 
 /**
