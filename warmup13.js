@@ -24,6 +24,6 @@
  * Example 3:
  * Input: arr = [1, 1, 1, 1, 1, 1]
  * Output: 1
- * Explanation: There is only 1 unique element: 1.
+ * explanation: There is only 1 unique element: 1.
 * 
  */
