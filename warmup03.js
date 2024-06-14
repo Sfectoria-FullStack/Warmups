@@ -7,7 +7,7 @@
  * @return {string}
  */
 
-const reverseStr=(str)=>{
+let reverseStr = function (str) => {
 }
 
 
