@@ -2,9 +2,7 @@
  * 1. write a function to Reverse an array without use array.reverse() method:
  * ex: reverseArray([1,2,3]) ==> [3,2,1]
  */
-let reverseArray=(array)=> {
-
-}
+let reverseArray=(array)=>
 
 
 /**
@@ -14,9 +12,7 @@ let reverseArray=(array)=> {
  * counting(3); // => '1, 2, 3'
  */
 
-let countring = (number) => {
-
-}
+let countring = (number) => 
 
 
 /**
@@ -25,10 +21,7 @@ let countring = (number) => {
  * @return {any}
  */
 
-const midElement = (array) =>{
-   
-
-}
+const midElement = (array) =>
 
 /**
  * 4 - write a function called (sameLength) that takes array of strings and returns an array of the strings that have the same length
@@ -39,9 +32,7 @@ const midElement = (array) =>{
  */
 
   
-const sameLength=(array) =>{
-  
-}
+const sameLength=(array) =>
 
 /**
  * 5. Given an array of integers and an integer n.
@@ -57,9 +48,7 @@ const sameLength=(array) =>{
  */
 
 
- let findAll = function (array, n) {
-   
-};
+ let findAll =(array, n)=>{}
 
 // 6. write a function that takes a string as an argument
 // and returns the string reversed word by word
@@ -68,9 +57,7 @@ const sameLength=(array) =>{
 //
 // Note : you can`t use any built-in functions .
 
-let reverseWord=(string) => {
-
-}
+let reverseWord=(string) => 
 
 
 //7.Write a function called sumOfFirstAndLast that 
