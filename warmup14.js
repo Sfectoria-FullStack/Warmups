@@ -28,6 +28,6 @@
  * Example 4:
  * Input: str = "No 'x' in Nixon"
  * Output: true
- * Explanation: Ignoring spaces, punctuation, and capitalization, the string reads the same backward as forward.
+ * explanation: Ignoring spaces, punctuation, and capitalization, the string reads the same backward as forward.
 
  */
