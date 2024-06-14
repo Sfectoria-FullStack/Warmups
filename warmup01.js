@@ -7,7 +7,7 @@ function MyPartnerName(firstname, lastname) {
 }
 
 
-function MultipleOf13orNot() {
+let MultipleOf13orNot = function() {
 
 }
 
@@ -17,7 +17,7 @@ function MultipleOf13orNot() {
 
 // 4-create a function that takes a age as a parametre and return that age in seconds.*//
 
-function AgeInSeconds(age) {
+const  AgeInSeconds = (age) =>  {
 
 }
 
