@@ -5,8 +5,7 @@
 //
 // Note : you can`t use any built-in functions .
 
-function reverseStr(str){
- } 
+let reverseStr = (str) => 
 
 
 
@@ -24,9 +23,7 @@ function reverseStr(str){
  * @return {Array}
  */
 
-let findAll = function (array, n) {
- 
-};
+let findAll =  (array, n) =>  
 
 
 /**
