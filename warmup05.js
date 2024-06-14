@@ -2,9 +2,7 @@
  * 1. write a function to Reverse an array without use array.reverse() method:
  * ex: reverseArray([1,2,3]) ==> [3,2,1]
  */
-let reverseArray=(array)=> {
-
-}
+let reverseArray=(array)=> 
 
 
 /**
@@ -14,9 +12,7 @@ let reverseArray=(array)=> {
  * counting(3); // => '1, 2, 3'
  */
 
-let countring = (number) => {
-
-}
+let countring = (number) => 
 
 
 /**
@@ -25,7 +21,7 @@ let countring = (number) => {
  * @return {any}
  */
 
- function midElement(array) {
+ flet midElement =function (array) {
    
 
 }
@@ -39,7 +35,7 @@ let countring = (number) => {
  */
 
   
-function sameLength(array) {
+let sameLength =function (array) {
   
 }
 
